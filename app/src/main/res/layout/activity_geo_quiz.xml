@@ -25,7 +25,6 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:padding="15dp"
-            android:background="@color/colorBackGroundButton"
             android:text="@string/button_A"
             />
 
@@ -34,7 +33,6 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:padding="15dp"
-            android:background="@color/colorBackGroundButton"
             android:text="@string/button_B"
             android:gravity="center" />
         <Button
@@ -42,7 +40,6 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:padding="15dp"
-            android:background="@color/colorBackGroundButton"
             android:text="@string/button_C" />
 
         <Button
@@ -50,7 +47,6 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:padding="15dp"
-            android:background="@color/colorBackGroundButton"
             android:text="@string/button_D" />
 
 
