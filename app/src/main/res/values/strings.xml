@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExistenceQuiz</string>
+    <string name="question_text">What is the captial of California?</string>
+    <string name="button_A">Los Angeles</string>
+    <string name="button_B">Sacramento</string>
+    <string name="button_C">Chowchilla</string>
+    <string name="button_D">Stockton</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+</resources>
